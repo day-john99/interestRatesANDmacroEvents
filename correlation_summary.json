@@ -1,0 +1,15 @@
+{
+  "analysis_date": "2025-07-30 14:10:02",
+  "nasdaq_data_points": 6429,
+  "nasdaq_date_range": "2000-01-03 00:00:00 to 2025-07-25 00:00:00",
+  "indicators_analyzed": 12,
+  "strongest_positive_correlation": {
+    "indicator": "Unemployment Rate",
+    "correlation": 0.1348
+  },
+  "strongest_negative_correlation": {
+    "indicator": "VIX (Market Volatility)",
+    "correlation": -0.3167
+  },
+  "average_absolute_correlation": 0.11128333333333335
+}
